@@ -1,0 +1,16 @@
+{
+  "name": "app-desordenada",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.1",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
