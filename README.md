@@ -1,4 +1,4 @@
-# 📝 App Desordenada - Proyecto Web Interactivo
+# 📝 App Desordenada
 
 **App Desordenada** es un proyecto web desarrollado con **Parcel, TypeScript, HTML y CSS**, que permite al usuario **desordenar palabras** de manera interactiva.
 
@@ -21,4 +21,4 @@ El objetivo principal es practicar lógica de programación y manipulación de s
 Es un proyecto ideal para principiantes/intermedios que quieren mejorar su manejo de JavaScript/TypeScript y publicar proyectos online rápidamente.
 
 ## 🌐 Demo Online
-Ver App Desordenada en GitHub Pages: https://fedebarrazaa.github.io/app-desordenada/
+https://fedebarrazaa.github.io/app-desordenada/
