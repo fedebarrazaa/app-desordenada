@@ -5,7 +5,7 @@
 ## ✨ Características principales
 🎨 Interfaz simple y atractiva: foco en la funcionalidad principal y la experiencia de usuario.
 🧑‍💻 TypeScript: para mantener el código tipado y más seguro.
-🎨 Estilos con CSS puro: diseño limpio y adaptable.
+🎨 Estilos con CSS: diseño limpio y adaptable.
 🚀 Build y deploy con Parcel: fácil de compilar y publicar en GitHub Pages.
 🔀 Lógica de desordenar palabras: manipulación de strings y lógica de programación interactiva.
 
